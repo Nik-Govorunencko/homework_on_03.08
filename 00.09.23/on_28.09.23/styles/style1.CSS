@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(223, 181, 145);
+    margin: 150px;
+}
+.container {
+    padding: 10px;
+    background-color: sandybrown;
+    width: 1000px;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+.headAndFooter {
+    display: flex;
+    justify-content: center;
+    color: rgb(228, 222, 212);
+    text-shadow: 2px 2px 1px black;
+}
+.content {
+    background-color: rgb(201, 132, 43);
+    padding: 15px;
+    border: 2px solid black;
+}
+.text {
+    background-color: rgb(141, 100, 43);
+    padding: 10px;
+    color:aliceblue;
+    border: 2px solid black;
+    font-size: 20px;
+    text-shadow: 2px 2px 1px black;
+}
+.backGroundOfFUTandHEAD {
+    background-color: rgb(162, 104, 54);
+    padding: 5px;
+    border: 2px solid black;
+
+}
